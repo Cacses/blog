@@ -15,6 +15,8 @@ Entrando en el mundo del `Machine Learning`:
 - Utilizaremos `Scikit-Learn` para entrenar modelos de clasificación, regresión o clustering.
 - Por último, librerías como `Tensorflow` o `Pytorch` nos proveerán de todo lo necesario para definir y entrenar **redes neuronales** para `Deep learning`.
 
+En este post te enseñaré cómo instalar `Python` y algunas de las diferentes herramientas que podemos utilizar a la hora de hacer nuestros programas. En los próximos posts nos adentraremos en la sintaxis del lenguaje y cómo trabajar con las diferentes librerías mencionadas.
+
 ## Instalando Python 🐍
 
 Vamos a empezar instalando `Python`. Es muy probable que ya lo tengas instalado en tu ordenador, para comprobarlo simplemente abre un terminal y escribe `python`. Si recibes un mensaje de error significará que `Python` no está instalado, mientras que si se abre el **interpretador** de `Python` significa que está instalado y puedes empezar a utilizarlo. Si no estás familiarizado con el terminal, puedes abrirlo buscando `command prompt` en `Windows` o `terminal` en `MacOS` (si usas `Linux` asumo que ya conoces de lo que hablo 😛). 
