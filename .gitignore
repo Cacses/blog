@@ -3,3 +3,5 @@ __pycache__
 *.csv
 *.npy
 *.npz
+*.zip
+ml-1m
