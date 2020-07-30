@@ -5,3 +5,4 @@ __pycache__
 *.npz
 *.zip
 ml-1m
+*.png
