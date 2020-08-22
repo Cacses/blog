@@ -6,3 +6,5 @@ __pycache__
 *.zip
 ml-1m
 *.png
+data
+*.pt
