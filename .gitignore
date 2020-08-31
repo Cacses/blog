@@ -8,3 +8,4 @@ ml-1m
 *.png
 data
 *.pt
+*.txt
