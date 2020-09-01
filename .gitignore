@@ -9,3 +9,4 @@ ml-1m
 data
 *.pt
 *.txt
+.data
