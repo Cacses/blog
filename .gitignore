@@ -10,3 +10,5 @@ data
 *.pt
 *.txt
 .data
+*.vector_cache
+wandb
