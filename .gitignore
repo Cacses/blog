@@ -13,3 +13,5 @@ data
 *.vector_cache
 wandb
 flowers
+*.pth
+*.onnx
