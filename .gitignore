@@ -15,3 +15,5 @@ wandb
 flowers
 *.pth
 *.onnx
+lightning_logs
+*.ckpt
